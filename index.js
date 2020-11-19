@@ -61,7 +61,7 @@ client.on("message", function(message) {
             message.reply("(　-_･)σ - - - - - - - - ･ #pewpew");
         }
         else{
-            "We only have a few commands: pewpew, fuck you, mafia, meh, zombie, cry, crazy, sad, fight, grip, russian tableflip, naughty, owl ,mob confused,shock, meow, grim stare";
+            message.reply("We only have a few commands: pewpew, fuck you, mafia, meh, zombie, cry, crazy, sad, fight, grip, russian tableflip, naughty, owl ,mob confused,shock, meow, grim stare");
         }
     }
 }); 
